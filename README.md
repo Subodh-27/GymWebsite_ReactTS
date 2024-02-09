@@ -79,7 +79,7 @@ This are all the necessary steps for the setting up the Project.
 
 Fonts Used:
 
-DM Sans - 400, 700
-Montserrat - 700
+DM Sans - 400, 700;
+Montserrat - 700;
 
 ---
