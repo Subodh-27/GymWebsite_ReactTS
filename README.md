@@ -71,6 +71,15 @@ npm i -D prettier prettier-plugin-tailwindcss
 
 Create a "prettier.config.cjs" file at the root and replace the content with that of the repository file.
 
-This are all the necessary steps for the Setup of the Project.
+This are all the necessary steps for the setting up the Project.
+
+---
+
+### Project Information
+
+Fonts Used:
+
+DM Sans - 400, 700
+Montserrat - 700
 
 ---
