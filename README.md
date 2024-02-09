@@ -1,7 +1,6 @@
 # Gym Website
 
 ## Technologies Used:
-
 - Vite
 - React
 - TypeScript
@@ -71,3 +70,7 @@ npm i -D prettier prettier-plugin-tailwindcss
 ```
 
 Create a "prettier.config.cjs" file at the root and replace the content with that of the repository file.
+
+This are all the necessary steps for the Setup of the Project.
+
+---
