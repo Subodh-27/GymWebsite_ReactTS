@@ -77,7 +77,6 @@ const Home = ({ setSelectedPage }: Props) => {
                         href={`#${SelectedPage.ContactUs}`}
                     >
                         <p>Learn More</p>
-
                     </AnchorLink>
                 </motion.div>
             </div>
