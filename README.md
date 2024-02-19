@@ -71,6 +71,12 @@ npm i -D prettier prettier-plugin-tailwindcss
 
 Create a "prettier.config.cjs" file at the root and replace the content with that of the repository file.
 
+Install the React Hook Form for using in Contact Us Section of the Project.
+
+```
+npm i react-hook-form
+```
+
 This are all the necessary steps for the setting up the Project.
 
 ---
